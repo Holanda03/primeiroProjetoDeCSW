@@ -1,0 +1,2 @@
+Primeiro projeto relacionado a disciplina Construção de Software para Web, ministrada pelo professor Ricardo Mendes Costa Segundo, da Universidade Vila Velha.
+Também é a primeira vez que estamos aprendendo a utilizar o Git e GitHub
